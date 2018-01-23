@@ -1,1 +1,6 @@
-# UserGuide-Jan2018
+# EduGuide User Guide
+
+## January 2018
+
+
+
