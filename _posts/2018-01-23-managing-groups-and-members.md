@@ -41,9 +41,7 @@ post_date: 2018-01-23 22:30:15
 <p></p>
 <p>This page can come in handy if a coach needs to reset a student’s password, add or remove them from groups, or adjust their path subscription settings.</p>
 <p></p>
-<p># 30 #</p>
+<p>#</p>
 <p></p>
 <p></p>
 <p><a href="https://docs.google.com/document/d/1o7OjQ8ywW1x1NvoMyBevkxTWX8661lvCaoKxflI4C0k/edit?usp=sharing">View Google Doc</a></p>
-<p></p>
-<p></p>
