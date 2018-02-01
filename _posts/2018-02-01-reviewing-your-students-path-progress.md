@@ -1,0 +1,46 @@
+---
+ID: 215
+post_title: 'Reviewing your students&#8217; Path Progress'
+author: ng23055
+post_excerpt: ""
+layout: post
+permalink: >
+  http://cyberland.shepherdmaplesyrupfestival.com/reviewing-your-students-path-progress
+published: true
+post_date: 2018-02-01 21:32:53
+---
+<p>Inside the Path system, coaches can use the Metrics page and the student zoom view to observe student’s progress and respond to their comments within the path.</p>
+<h2>Viewing Students’ Path Progress</h2>
+<h3>Navigate to the Metrics Page</h3>
+<p>The link for your team’s metrics page can be found inside the main navigation menu.</p>
+<h4>Parts of the Metrics Page</h4>
+<p><img src="http://cyberland.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/01/null-8.png" width="624" height="145" alt="" title=""></p>
+<p>The Metrics page is broken up into the following sections.</p>
+<h5>Header</h5>
+<p>The header shows you a count of the number of times you’ve responded to students in the path, the number of cheers you’ve shared, the number of activities you’ve completed inside your own path, and a “Continue” button which will launch your path when you click it. Tooltips will appear when you hover or click on many of the elements that are displayed in the page. You can also jump to your personal settings page by clicking on your personal avatar.</p>
+<h5>Filters</h5>
+<p>Below the header you will find a row of filters which will allow you to adjust the list of students. You can:</p>
+<ul>
+<li>sort the list by newest or oldest comments, the students with the most or least completed activities, or by name either alphabetically or reverse alphabetically.</li>
+<li>Filter for completed activities within a specific time range. You can choose to view activity for the previous 28 or 7 days, or enter in a custom range.</li>
+<li>Filter the list by team role or group membership. By default, you will be shown all of the students who are members of groups that you follow. You can change the filter so that you are viewing only students who are in a specific group, all members, or all coaches.</li>
+<li>If you belong to multiple teams, you can use the teams menu to switch between them. This is a quick way to view different metrics pages.</li>
+<li>Search students by first or last name. Click on the line to the left of the magnifying glass to enter in a first or last name, then hit enter.</li>
+</ul>
+<h5>Student Progress Information</h5>
+<p>Each line of progress information includes a student’s name, a time stamp indicating the last time that they interacted with the path, the number of activities that they have completed, a progress bar which shows their progress bar as it compared to other students on the list, and an option menu.</p>
+<h3>View a specific Student’s path progress</h3>
+<p><img src="http://cyberland.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/01/null-9.png" width="624" height="153" alt="" title=""></p>
+<p></p>
+<p>Click on a student’s name to “zoom in” on their path progress information.  Under this view, you will be shown a list of the activities that your student has completed, text from the activity’s text, and any responses that the student has posted in response to steps with questions.</p>
+<h4>Respond to a student’s comment</h4>
+<p>You can respond to a student’s comment by entering your response inside the field displayed underneath theirs and then either hitting the Enter button or clicking the plus button located to the far left side of the screen. When you submit your reply it will immediately below your student’s comment. If you need to change your response, you can do so by clicking anywhere inside the box where your response appears.</p>
+<p>Students will be shown your response the next time that they log into their account and view their path.</p>
+<h4>Easily navigate to the next student on your list</h4>
+<p>You can page forwards or backwards from one student to another by clicking on either of the arrows displayed towards the upper right hand corner of the screen inside the header. Clicking on the right arrow will navigate you backwards to the previous student on your list, and clicking on the left arrow will navigate you to the next student.</p>
+<p></p>
+<h3>View all responses posted by students for a given step</h3>
+<p><img src="http://cyberland.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/01/null-10.png" width="624" height="332" alt="" title=""></p>
+<p>Click the “View all replies” link displayed at the end of a specific step to view how all of your students responded to it. You can then scroll down the page and respond to each student who is listed. You can also filter the page for students who belong to specific groups.</p>
+<p>#</p>
+<p><a href="https://docs.google.com/document/d/1fSKXXe2oSkLZQnxPkxEXDDfC0tC8I1cUouEr9dBEKVg/edit?usp=sharing">Edit Google Doc</a></p>
