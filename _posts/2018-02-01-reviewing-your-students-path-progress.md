@@ -18,6 +18,16 @@ post_date: 2018-02-01 21:32:53
 <p>The Metrics page is broken up into the following sections.</p>
 <h5>Header</h5>
 <p>The header shows you a count of the number of times you’ve responded to students in the path, the number of cheers you’ve shared, the number of activities you’ve completed inside your own path, and a “Continue” button which will launch your path when you click it. Tooltips will appear when you hover or click on many of the elements that are displayed in the page. You can also jump to your personal settings page by clicking on your personal avatar.</p>
+<h5>Metrics</h5>
+<p>You can choose a metrics option that gives you insight into the progress for either students or coaches.</p>
+<p></p>
+<p></p>
+<ul>
+<li><b>Activities </b>shows you the progress made by the students in the groups you follow.</li>
+<li><b>“Coaching Received”</b> is a simple way to quickly see the number of coaching comments received by each of your students. You can sort your list of students by “least” or “oldest” Coaching Received to focus on students whom you haven’t responded to in a while. Clicking on the student will then show you your most recent interactions and any responses.</li>
+<li><b>“Coaching Given”</b> lets you see coaching comment totals for each coach. Clicking on the coaches’ name will show a list of people they’ve coached. Then you can click on individual student names to see examples of their coaching and give them a thumbs up to recognize their work. It’s a quick and powerful way for admin coaches to encourage their fellow coaches.</li>
+<li><b>PD Activities</b> will show you the number of activities that coaches have completed in the Professional Development version of the path.</li>
+</ul>
 <h5>Filters</h5>
 <p>Below the header you will find a row of filters which will allow you to adjust the list of students. You can:</p>
 <ul>
