@@ -13,7 +13,7 @@ Cyberland's purpose is to dive deep into the designs and rules of website and id
 <h1>Cyber Eye</h1>
 [tabby title="Blog"]
 
-Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
+[ic_add_posts tag='public']
 
 [tabby title="Join"]
 
