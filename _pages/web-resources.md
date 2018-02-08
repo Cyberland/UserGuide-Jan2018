@@ -1,6 +1,6 @@
 ---
 ID: 104
-post_title: Web Resources
+post_title: Web Links
 author: ng23055
 post_excerpt: ""
 layout: page
