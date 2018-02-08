@@ -1,6 +1,6 @@
 ---
 ID: 7
-post_title: Home
+post_title: Join the UX Community
 author: ng23055
 post_excerpt: ""
 layout: page
@@ -9,4 +9,6 @@ permalink: >
 published: true
 post_date: 2018-01-09 22:28:17
 ---
-Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time.
+Cyberland's purpose is to dive deep into the designs and rules of website and identify any usability weaknesses. Visitors on the site can explore forums, a Classifieds section, a list of recommended web resources, and a public blog. Community members will be able to access a member-only blog, complete testing assignments, and more. Cyberland is also hoping to partner with other businesses or organizations who would like to gather feedback on their websites.
+<h1>Cybereye</h1>
+&nbsp;
