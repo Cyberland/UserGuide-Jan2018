@@ -20,8 +20,6 @@ Cyberland's purpose is to dive deep into the designs and rules of website and id
 
 [tabby title="Join"]
 
-Lay down in your way catnip stuck in a tree, sunbathe kittens.
-
-&nbsp;
+[ultimatemember form_id=160]
 
 [tabbyending]
