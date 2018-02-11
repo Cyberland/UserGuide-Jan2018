@@ -16,7 +16,7 @@ Cyberland's purpose is to dive deep into the designs and rules of website and id
 
 <hr />
 
-[ic_add_posts category='public' and tag="blog"]
+[blog]
 
 [tabby title="Join"]
 
