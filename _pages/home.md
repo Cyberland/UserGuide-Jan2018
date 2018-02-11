@@ -13,7 +13,7 @@ Cyberland's purpose is to dive deep into the designs and rules of website and id
 
 [tabby title="Blog"]
 
-[ic_add_posts category='public' and exclude_category='eduguide' and tag='blog']
+[ic_add_posts category='public' and tag='blog' and tag='public']
 
 [tabby title="Join"]
 
