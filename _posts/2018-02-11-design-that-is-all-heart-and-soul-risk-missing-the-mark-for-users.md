@@ -13,7 +13,7 @@ post_date: 2018-02-11 15:56:35
 ---
 Lately, I’ve been thinking about the iconic scene in “Frozen” where Elsa uses her ice magic powers to build her ice castle on the top of a mountain. The music swells, and she starts singing as she wills the castle into being. She has just been outed in front of her followers as having ice powers, and can no longer contain how she feels about it.
 
-But, let’s take a second look at the castle that she builds. We forgive Elsa’s design choices because it’s an emotional time, and she is expressing her emotions. But, who is the castle built for? There isn’t any furniture, and only a couple of rooms. Where is the kitchen? Where is the dining room?
+But, let’s take a second look at the castle that she builds. We forgive Elsa’s design choices because it’s an emotional time, and she is expressing her emotions. But, who is the castle built for? There isn’t any furniture, and only a couple of rooms. Where is the kitchen? Where is the dining room?<!--more-->
 
 And, while Elsa seeks to be isolated, the location is really bad if she ever decides to have visitors. We know, from the movie, that the castle is really hard to get to. And, forget inviting any friends who are elderly or handicapped.
 
