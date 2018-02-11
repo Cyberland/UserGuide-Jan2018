@@ -1,7 +1,7 @@
 ---
 ID: 317
 post_title: >
-  Design that is all heart and soul risk
+  Design that is all heart and soul risks
   missing the mark for users
 author: ng23055
 post_excerpt: ""
@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-02-11 15:56:35
 ---
-<img title="" src="http://cyberland.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/null-17.png" alt="" width="468" height="521" />
+&nbsp;
 
 Lately, I’ve been thinking about the iconic scene in “Frozen” where Elsa uses her ice magic powers to build her ice castle on the top of a mountain. The music swells, and she starts singing as she wills the castle into being. She has just been outed in front of her followers as having ice powers, and can no longer contain how she feels about it.
 
