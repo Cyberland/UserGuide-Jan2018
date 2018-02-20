@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-02-20 23:24:57
 ---
-<h1>Tracking Time Invested</h1>
 It is possible to track the time students or coaches spend inside the path from the metrics page.
 <h2><img title="" src="http://cyberland.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/02/null-24.png" alt="" width="624" height="157" /></h2>
 <h2>Selecting “Time Invested”</h2>
